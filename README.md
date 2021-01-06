@@ -1,1 +1,0 @@
-# Faiz Ahmad Dae
