@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 body {
-	background: #bcdee7 url("http://victory-design.ru/sandbox/codepen/profile_card/bg.png") no-repeat center center fixed;
+	background: #bcdee7 url("assets/img/bg.jpg") no-repeat center center fixed;
     background-size: 120% auto;
     position: fixed;
 	padding: 0px;
