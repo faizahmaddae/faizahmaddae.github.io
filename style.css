@@ -153,7 +153,8 @@ p {
     margin: -5px 0px 0px 0px;
     padding: 0px;
     float: left;
-    width: 33.3%;
+    /*width: 33.3%;*/
+    width: 24.3%;
     text-align: center;
 }
 .profile-social-links li a {
