@@ -1,0 +1,14 @@
+{
+    "showAds":false,
+    "apis":[
+        {
+            "url":"https://snappsave.onrender.com/api"
+        },
+        {
+            "url":"https://snappsave.cyclic.app/api"
+        },
+        {
+            "url":"https://snappsave.vercel.app/api"
+        }
+    ]
+}
