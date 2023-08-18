@@ -1,6 +1,6 @@
 {
     "showAds":false,
-    "ios_approved": false,
+    "iosApproved": false,
     "apis":[
         {
             "url":"https://snapinsta.onrender.com/api"
