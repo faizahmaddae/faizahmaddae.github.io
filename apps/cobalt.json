@@ -3,13 +3,17 @@
     "apis":[
         {
             "url":"https://co.wuk.sh/api/json"
+        },
+        {
+            "url":"https://us1-co.wuk.sh/api/json"
         }
     ],
     "blockedDomains":[
         "www.facebook.com",
         "fb.com",
         "www.fb.com",
-        "facebook.com"
+        "facebook.com",
+        "fb.watch"
     ]
 
 }
