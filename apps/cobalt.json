@@ -1,0 +1,15 @@
+{
+    "showAds":false,
+    "apis":[
+        {
+            "url":"https://co.wuk.sh/api/json"
+        }
+    ],
+    "blockedDomains":[
+        "www.facebook.com",
+        "fb.com",
+        "www.fb.com",
+        "facebook.com"
+    ]
+
+}
