@@ -2,10 +2,10 @@
     "showAds":false,
     "apis":[
         {
-            "url":"https://co.wuk.sh/api/json"
+            "url":"https://api.topjow.org/api/download"
         },
         {
-            "url":"https://us1-co.wuk.sh/api/json"
+            "url":"https://api.topjow.org/api/download"
         }
     ],
     "blockedDomains":[
