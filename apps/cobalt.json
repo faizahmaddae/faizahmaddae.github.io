@@ -9,11 +9,9 @@
         }
     ],
     "blockedDomains":[
-        "www.facebook.com",
-        "fb.com",
-        "www.fb.com",
-        "facebook.com",
-        "fb.watch"
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com"
     ]
 
 }
