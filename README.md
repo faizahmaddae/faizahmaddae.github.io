@@ -16,6 +16,12 @@
 
 
 
+ {
+            "url":"https://snapinsta.onrender.com/api"
+        },
+        {
+            "url":"https://snapinsta.vercel.app/api"
+        }
 
 
 {
