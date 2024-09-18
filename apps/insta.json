@@ -3,6 +3,9 @@
     "iosApproved": false,
     "apis":[
         {
+            "url":"https://insta.annebrodsky.com/api"
+        },
+        {
             "url":"https://snapinsta.vercel.app/api"
         }
     ]
