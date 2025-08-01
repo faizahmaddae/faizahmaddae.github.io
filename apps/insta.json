@@ -3,10 +3,10 @@
     "iosApproved": false,
     "apis":[
         {
-            "url":"https://insta-v2.annebrodsky.com/api"
+            "url":"https://snapinst.onrender.com/api"
         },
         {
-            "url":"https://insta-v2.annebrodsky.com/api"
+            "url":"https://snapinst.onrender.com/api"
         }
     ]
 }
