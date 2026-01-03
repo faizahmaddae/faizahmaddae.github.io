@@ -4,10 +4,10 @@
     "maintenance": false,
     "apis":[
         {
-            "url":"https://insta-api-production-c4ab.up.railway.app/api"
+            "url":"https://snapinst.onrender.com/api"
         },
         {
-            "url":"https://insta-api-production-c4ab.up.railway.app/api"
+            "url":"https://snapinst.onrender.com/api"
         }
     ]
 }
